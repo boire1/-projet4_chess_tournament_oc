@@ -286,5 +286,101 @@
     "player1": 4,
     "player2": 1,
     "winner": 1
+  },
+  {
+    "idm": 48,
+    "player1": 18,
+    "player2": 12,
+    "winner": 2
+  },
+  {
+    "idm": 49,
+    "player1": 10,
+    "player2": 5,
+    "winner": 1
+  },
+  {
+    "idm": 50,
+    "player1": 4,
+    "player2": 7,
+    "winner": 0
+  },
+  {
+    "idm": 51,
+    "player1": 20,
+    "player2": 1,
+    "winner": 2
+  },
+  {
+    "idm": 52,
+    "player1": 18,
+    "player2": 10,
+    "winner": 1
+  },
+  {
+    "idm": 53,
+    "player1": 12,
+    "player2": 5,
+    "winner": 2
+  },
+  {
+    "idm": 54,
+    "player1": 4,
+    "player2": 20,
+    "winner": 2
+  },
+  {
+    "idm": 55,
+    "player1": 7,
+    "player2": 1,
+    "winner": 1
+  },
+  {
+    "idm": 56,
+    "player1": 18,
+    "player2": 5,
+    "winner": 0
+  },
+  {
+    "idm": 57,
+    "player1": 12,
+    "player2": 10,
+    "winner": 1
+  },
+  {
+    "idm": 58,
+    "player1": 4,
+    "player2": 1,
+    "winner": 1
+  },
+  {
+    "idm": 59,
+    "player1": 7,
+    "player2": 20,
+    "winner": 1
+  },
+  {
+    "idm": 60,
+    "player1": 18,
+    "player2": 4,
+    "winner": 0
+  },
+  {
+    "idm": 61,
+    "player1": 12,
+    "player2": 7,
+    "winner": 0
+  },
+  {
+    "idm": 62,
+    "player1": 10,
+    "player2": 20,
+    "winner": 0
+  },
+  {
+    "idm": 63,
+    "player1": 5,
+    "player2": 1,
+    "winner": 1
   }
 ]
